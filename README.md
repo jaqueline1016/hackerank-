@@ -1,6 +1,6 @@
-# 🐍 Ejercicios de HackerRank - Python
+#  Ejercicios de HackerRank -
 
-Este repositorio contiene mis soluciones personales a los desafíos de Python en la plataforma [HackerRank](https://www.hackerrank.com/).
+Este repositorio contiene mis soluciones personales a los desafíos de  la plataforma [HackerRank](https://www.hackerrank.com/).
 
 Cada carpeta está organizada por temática: `warmup` etc. Los ejercicios se han resuelto con fines de práctica y aprendizaje.
 
@@ -12,6 +12,15 @@ Cada carpeta está organizada por temática: `warmup` etc. Los ejercicios se han
 
 
 ---
+
+---
+## Lenguajes 
+
+- Python
+- C
+- Go 
+- C# 
+
 
 ## 🧠 Objetivo
 
